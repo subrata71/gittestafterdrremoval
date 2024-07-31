@@ -6,6 +6,11 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "limit"
+      }
+    ],
     "inputs": {
       "limit": "{{1}}"
     },
