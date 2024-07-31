@@ -1,13 +1,13 @@
 {
   "gitSyncId": "66aa1c00a861d27a8d9680fa_00d0828c-83eb-4e70-9fe5-3537b70f50ed",
-  "id": "Page1__$JSModule11$_JSModule1.getUsersByLimit",
+  "id": "Page1__$JSModuleOneV1$_JSModule1.getUsersByLimit",
   "isPublic": true,
-  "moduleInstanceId": "Page1_JSModule11",
+  "moduleInstanceId": "Page1_JSModuleOneV1",
   "pluginId": "js-plugin",
   "pluginType": "JS",
-  "rootModuleInstanceId": "Page1_JSModule11",
+  "rootModuleInstanceId": "Page1_JSModuleOneV1",
   "unpublishedAction": {
-    "collectionId": "Page1__$JSModule11$_JSModule1",
+    "collectionId": "Page1__$JSModuleOneV1$_JSModule1",
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
     "datasource": {
@@ -16,7 +16,7 @@
       "pluginId": "js-plugin"
     },
     "executeOnLoad": false,
-    "fullyQualifiedName": "_$JSModule11$_JSModule1.getUsersByLimit",
+    "fullyQualifiedName": "_$JSModuleOneV1$_JSModule1.getUsersByLimit",
     "name": "getUsersByLimit",
     "pageId": "Page1",
     "userSetOnLoad": false

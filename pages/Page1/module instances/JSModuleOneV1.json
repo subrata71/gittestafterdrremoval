@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66aa1c00a861d27a8d9680fa_b8c810b0-b0b4-4d45-a3a9-a926d835a9d3",
-  "id": "Page1_JSModule11",
+  "id": "Page1_JSModuleOneV1",
   "moduleUUID": "1fbec201-1092-40c3-9b48-79a6defc95b4",
   "packageUUID": "6dff5029-4dd9-4c8c-b3d9-120f9e1b594e",
   "type": "JS_MODULE",
@@ -16,7 +16,7 @@
       "ydcqhjqigx": {},
       "yozqhgztvx": {}
     },
-    "name": "JSModule11",
+    "name": "JSModuleOneV1",
     "pageId": "Page1",
     "version": "0.0.1"
   }
