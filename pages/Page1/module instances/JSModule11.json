@@ -7,17 +7,19 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
+      "getNow": "[]",
       "getUsersByLimit": "[]",
       "myFun1": "[]",
       "myFun2": "[]"
     },
     "moduleInputs": {
+      "jyslyiomlq": {},
       "vvmzbdotot": {},
       "ydcqhjqigx": {},
       "yozqhgztvx": {}
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
 }
